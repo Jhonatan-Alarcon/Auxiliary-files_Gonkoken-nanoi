@@ -1,0 +1,1146 @@
+Reading from C:\Users\Jhonatan Alarcón\Desktop\Corrección Paper Gonkoken\Alex_JAM_actualizado_CORRECCIONES\Matriz modificada Gonkoken_SA\z-matriz definitiva_Gonkoken nanoi\Gonkoken_nanoi_JAM et al. 2023_9_ March_TNT 
+Matrix (365x77, 16 states). Memory required for data: 0.69 Mbytes 
+Space for 99999 trees in memory 
+Outgroup is taxon 0  -  Ouranosaurus_nigeriensis 
+Constraints is OFF 
+Random seed is 1 
+0 trees in memory 
+Repl. Algor.     Tree        Score       Best Score   Time       Rearrangs.
+100   FUSE       5           ------      1335         0:01:12    3,672,156,853 
+Completed search.
+Total rearrangements examined: 3,672,156,853. 
+No target score defined.  Best score hit 100 times.
+Best score: 1335.  4 trees retained. 
+Time 72.58 secs. 
+Start swapping from 3 trees (score 1335)... 
+Repl. Algor.     Tree        Score       Best Score   Time       Rearrangs.
+---   TBR        3 of 4      ------      1335         0:00:00    580,444       
+Completed TBR branch-swapping.
+Total rearrangements examined: 580,444. 
+Best score (TBR): 1335.  4 trees found. 
+Time 1.34 secs. 
+ 
+Synapomorphies common to 4 trees 
+(Node numbers refer to nodes in consensus) 
+ 
+   Ouranosaurus_nigeriensis : 
+     All trees: 
+       No autapomorphies: 
+ 
+   Iguanodon_bernissartensis : 
+     All trees: 
+       Char. 40: 0 --> 1 
+       Char. 210: 1 --> 0 
+       Char. 228: 1 --> 0 
+       Char. 243: 0 --> 1 
+       Char. 286: 0 --> 1 
+       Char. 306: 0 --> 1 
+       Char. 340: 0 --> 1 
+       Char. 341: 0 --> 1 
+ 
+   Mantellisaurus_atherfieldensis : 
+     All trees: 
+       Char. 128: 0 --> 1 
+       Char. 150: 0 --> 1 
+       Char. 299: 1 --> 0 
+ 
+   Jinzhousaurus_yangi : 
+     All trees: 
+       Char. 72: 0 --> 1 
+       Char. 121: 1 --> 2 
+       Char. 150: 0 --> 1 
+       Char. 158: 0 --> 1 
+       Char. 230: 0 --> 1 
+ 
+   Equijubus_normani : 
+     All trees: 
+       Char. 146: 0 --> 2 
+       Char. 210: 1 --> 0 
+ 
+   Sirindhorna_khoratensis : 
+     All trees: 
+       No autapomorphies: 
+ 
+   Xuwulong_yueluni : 
+     All trees: 
+       Char. 36: 0 --> 1 
+       Char. 158: 0 --> 1 
+       Char. 326: 1 --> 2 
+     Some trees: 
+       Char. 113: 0 --> 1 
+       Char. 121: 1 --> 2 
+ 
+   Probactrosaurus_gobiensis : 
+     All trees: 
+       No autapomorphies: 
+ 
+   Zuoyunlong_huangi : 
+     All trees: 
+       No autapomorphies: 
+ 
+   Yunganglong_datongensis : 
+     Some trees: 
+       Char. 205: 0 --> 1 
+ 
+   Eolambia_caroljonesa : 
+     All trees: 
+       Char. 5: 1 --> 23 
+       Char. 23: 0 --> 1 
+       Char. 30: 0 --> 1 
+       Char. 360: 0 --> 1 
+     Some trees: 
+       Char. 78: 1 --> 0 
+       Char. 187: 1 --> 0 
+       Char. 233: 0 --> 1 
+       Char. 257: 0 --> 1 
+       Char. 356: 0 --> 2 
+ 
+   Protohadros_byrdi : 
+     All trees: 
+       Char. 15: 0 --> 1 
+       Char. 37: 0 --> 2 
+       Char. 39: 1 --> 0 
+       Char. 40: 0 --> 2 
+       Char. 55: 1 --> 0 
+       Char. 99: 1 --> 0 
+       Char. 103: 0 --> 1 
+       Char. 111: 0 --> 1 
+     Some trees: 
+       Char. 33: 0 --> 1 
+       Char. 71: 01 --> 2 
+ 
+   Jintasaurus_meniscus : 
+     All trees: 
+       Char. 201: 0 --> 1 
+       Char. 207: 0 --> 1 
+       Char. 228: 0 --> 1 
+ 
+   Levnesovia_transoxiana : 
+     All trees: 
+       Char. 187: 1 --> 0 
+       Char. 312: 0 --> 1 
+       Char. 355: 0 --> 1 
+       Char. 356: 0 --> 1 
+     Some trees: 
+       Char. 1: 1 --> 0 
+       Char. 125: 1 --> 0 
+ 
+   Tanius_sinensis : 
+     All trees: 
+       Char. 236: 0 --> 1 
+       Char. 255: 0 --> 1 
+       Char. 270: 0 --> 1 
+       Char. 299: 0 --> 1 
+       Char. 335: 0 --> 1 
+ 
+   Bactrosaurus_johnsoni : 
+     All trees: 
+       Char. 8: 1 --> 2 
+       Char. 10: 1 --> 2 
+       Char. 38: 0 --> 1 
+       Char. 40: 0 --> 1 
+       Char. 104: 1 --> 0 
+       Char. 121: 0 --> 2 
+       Char. 179: 1 --> 0 
+       Char. 180: 1 --> 0 
+       Char. 326: 1 --> 2 
+       Char. 328: 0 --> 1 
+       Char. 360: 0 --> 1 
+ 
+   Gilmoreosaurus_mongoliensis : 
+     All trees: 
+       Char. 4: 1 --> 2 
+       Char. 26: 1 --> 0 
+       Char. 99: 1 --> 2 
+       Char. 129: 1 --> 0 
+       Char. 344: 1 --> 0 
+ 
+   Claosaurus_agilis : 
+     All trees: 
+       Char. 5: 2 --> 3 
+       Char. 273: 1 --> 0 
+       Char. 299: 0 --> 1 
+       Char. 341: 0 --> 1 
+ 
+   Nanningosaurus_dashiensis : 
+     All trees: 
+       Char. 7: 0 --> 1 
+       Char. 47: 0 --> 1 
+       Char. 48: 0 --> 1 
+       Char. 52: 0 --> 1 
+       Char. 97: 1 --> 0 
+       Char. 101: 0 --> 1 
+       Char. 104: 1 --> 0 
+       Char. 317: 0 --> 1 
+       Char. 318: 1 --> 0 
+ 
+   Adynomosaurus_arcanus : 
+     All trees: 
+       Char. 258: 1 --> 0 
+       Char. 259: 1 --> 0 
+       Char. 294: 1 --> 0 
+       Char. 335: 1 --> 0 
+       Char. 340: 0 --> 1 
+ 
+   Telmatosaurus_transsylvanicus : 
+     All trees: 
+       Char. 43: 0 --> 1 
+       Char. 48: 0 --> 1 
+       Char. 64: 0 --> 1 
+ 
+   Tethyshadros_insularis : 
+     All trees: 
+       Char. 5: 2 --> 0 
+       Char. 7: 0 --> 1 
+       Char. 19: 1 --> 0 
+       Char. 21: 0 --> 1 
+       Char. 38: 0 --> 1 
+       Char. 44: 1 --> 0 
+       Char. 55: 1 --> 0 
+       Char. 56: 1 --> 0 
+       Char. 66: 1 --> 0 
+       Char. 80: 0 --> 1 
+       Char. 96: 0 --> 1 
+       Char. 97: 1 --> 0 
+       Char. 106: 0 --> 1 
+       Char. 147: 1 --> 0 
+       Char. 177: 0 --> 1 
+       Char. 202: 0 --> 1 
+       Char. 238: 1 --> 0 
+ 
+   Eotrachodon_orientalis : 
+     All trees: 
+       Char. 32: 3 --> 1 
+       Char. 35: 1 --> 0 
+       Char. 39: 2 --> 1 
+       Char. 104: 1 --> 0 
+       Char. 118: 02 --> 1 
+       Char. 161: 0 --> 1 
+       Char. 202: 0 --> 1 
+       Char. 207: 1 --> 0 
+       Char. 314: 1 --> 0 
+       Char. 351: 1 --> 0 
+ 
+   Zhanghenglong_yangchengensis : 
+     All trees: 
+       Char. 6: 0 --> 1 
+       Char. 21: 0 --> 1 
+       Char. 41: 1 --> 2 
+       Char. 51: 1 --> 0 
+ 
+   Plesiohadros_djadokhtaensis : 
+     All trees: 
+       Char. 0: 0 --> 1 
+       Char. 37: 0 --> 1 
+       Char. 39: 2 --> 0 
+       Char. 52: 0 --> 1 
+       Char. 97: 1 --> 0 
+ 
+   Lophorhothon_atopus : 
+     All trees: 
+       Char. 96: 0 --> 1 
+       Char. 111: 1 --> 2 
+       Char. 112: 2 --> 1 
+       Char. 137: 0 --> 2 
+       Char. 141: 0 --> 6 
+       Char. 161: 0 --> 2 
+       Char. 183: 1 --> 0 
+       Char. 220: 0 --> 1 
+       Char. 251: 2 --> 1 
+       Char. 279: 1 --> 0 
+       Char. 287: 0 --> 1 
+       Char. 289: 1 --> 0 
+       Char. 290: 1 --> 0 
+       Char. 299: 01 --> 2 
+       Char. 303: 1 --> 0 
+       Char. 332: 1 --> 0 
+ 
+   Hadrosaurus_foulkii : 
+     All trees: 
+       Char. 5: 2 --> 3 
+ 
+   Yamatosaurus_izanagii : 
+     All trees: 
+       Char. 61: 1 --> 2 
+ 
+   Acristavus_gagslarsoni : 
+     All trees: 
+       Char. 41: 1 --> 0 
+       Char. 129: 1 --> 0 
+ 
+   Wulagasaurus_dongi : 
+     All trees: 
+       No autapomorphies: 
+ 
+   Maiasaura_peeblesorum : 
+     All trees: 
+       Char. 129: 1 --> 0 
+       Char. 138: 1 --> 2 
+       Char. 347: 0 --> 1 
+ 
+   Brachylophosaurus_canadensis : 
+     All trees: 
+       Char. 37: 2 --> 3 
+       Char. 38: 0 --> 1 
+ 
+   Probrachylophosaurus_bergei : 
+     All trees: 
+       Char. 15: 1 --> 2 
+       Char. 40: 1 --> 2 
+       Char. 134: 1 --> 0 
+ 
+   Kritosaurus_navajovius : 
+     All trees: 
+       Char. 5: 3 --> 2 
+       Char. 32: 3 --> 2 
+       Char. 41: 1 --> 0 
+       Char. 120: 1 --> 0 
+       Char. 137: 0 --> 2 
+ 
+   Huallasaurus_australis : 
+     All trees: 
+       Char. 42: 0 --> 1 
+ 
+   Gryposaurus_latidens : 
+     All trees: 
+       Char. 4: 1 --> 0 
+       Char. 10: 2 --> 1 
+       Char. 120: 1 --> 0 
+       Char. 148: 2 --> 1 
+ 
+   Rhinorex_condrupus : 
+     All trees: 
+       Char. 6: 1 --> 0 
+ 
+   Gryposaurus_monumentensis : 
+     All trees: 
+       Char. 15: 1 --> 2 
+       Char. 124: 1 --> 2 
+       Char. 230: 1 --> 2 
+ 
+   Gryposaurus_notabilis : 
+     All trees: 
+       Char. 25: 1 --> 0 
+       Char. 26: 1 --> 2 
+ 
+   Prosaurolophus_maximus : 
+     All trees: 
+       Char. 295: 1 --> 0 
+       Char. 309: 0 --> 1 
+       Char. 316: 0 --> 2 
+       Char. 340: 1 --> 0 
+ 
+   Saurolophus_angustirostris : 
+     All trees: 
+       Char. 4: 2 --> 1 
+       Char. 236: 0 --> 1 
+ 
+   Saurolophus_osborni : 
+     All trees: 
+       Char. 0: 1 --> 2 
+       Char. 26: 2 --> 3 
+ 
+   Shantungosaurus_giganteus : 
+     All trees: 
+       Char. 41: 0 --> 2 
+       Char. 44: 0 --> 1 
+       Char. 128: 0 --> 1 
+       Char. 202: 0 --> 2 
+ 
+   Edmontosaurus_annectens : 
+     All trees: 
+       Char. 98: 0 --> 1 
+       Char. 229: 0 --> 1 
+       Char. 230: 1 --> 0 
+       Char. 270: 2 --> 1 
+       Char. 340: 1 --> 0 
+       Char. 352: 0 --> 1 
+ 
+   Edmontosaurus_regalis : 
+     All trees: 
+       Char. 254: 2 --> 1 
+       Char. 322: 2 --> 1 
+       Char. 353: 0 --> 1 
+ 
+   Kamuysaurus_japonicus : 
+     All trees: 
+       Char. 4: 2 --> 3 
+       Char. 21: 0 --> 1 
+       Char. 42: 0 --> 1 
+       Char. 65: 0 --> 1 
+       Char. 190: 0 --> 1 
+       Char. 192: 0 --> 1 
+       Char. 209: 0 --> 1 
+       Char. 240: 0 --> 1 
+       Char. 251: 2 --> 1 
+       Char. 254: 2 --> 1 
+       Char. 269: 1 --> 0 
+       Char. 271: 1 --> 0 
+       Char. 286: 1 --> 0 
+       Char. 333: 1 --> 0 
+       Char. 341: 0 --> 1 
+ 
+   Kerberosaurus_manakini : 
+     All trees: 
+       No autapomorphies: 
+ 
+   Laiyangosaurus_youngi : 
+     All trees: 
+       Char. 20: 1 --> 0 
+ 
+   Aralosaurus_tuberiferus : 
+     All trees: 
+       Char. 38: 0 --> 1 
+       Char. 188: 1 --> 0 
+ 
+   Canardia_garonnensis : 
+     All trees: 
+       Char. 4: 2 --> 3 
+       Char. 6: 1 --> 0 
+       Char. 7: 1 --> 0 
+       Char. 22: 1 --> 2 
+       Char. 100: 0 --> 1 
+       Char. 256: 0 --> 1 
+ 
+   Nipponosaurus_sachalinensis : 
+     All trees: 
+       No autapomorphies: 
+ 
+   Blasisaurus_canudoi : 
+     All trees: 
+       Char. 5: 2 --> 3 
+ 
+   Pararhabdodon_isonensis : 
+     All trees: 
+       Char. 362: 0 --> 1 
+ 
+   Tsintaosaurus_spinorhinus : 
+     All trees: 
+       No autapomorphies: 
+ 
+   Jaxartosaurus_aralensis : 
+     All trees: 
+       No autapomorphies: 
+ 
+   Parasaurolophus_cyrtocristatus : 
+     All trees: 
+       Char. 289: 0 --> 1 
+ 
+   Parasaurolophus_walkeri : 
+     All trees: 
+       Char. 40: 1 --> 0 
+       Char. 115: 3 --> 2 
+       Char. 124: 2 --> 3 
+ 
+   Charonosaurus_jiayinensis : 
+     All trees: 
+       No autapomorphies: 
+ 
+   Parasaurolophus_tubicen : 
+     All trees: 
+       Char. 38: 0 --> 1 
+ 
+   Arenysaurus_ardevoli : 
+     All trees: 
+       Char. 44: 1 --> 0 
+       Char. 262: 1 --> 2 
+ 
+   Olorotitan_arharensis : 
+     All trees: 
+       Char. 26: 2 --> 3 
+       Char. 37: 1 --> 2 
+       Char. 44: 1 --> 0 
+       Char. 45: 1 --> 0 
+       Char. 115: 3 --> 4 
+       Char. 260: 0 --> 1 
+       Char. 287: 0 --> 1 
+ 
+   Amurosaurus_riabinini : 
+     All trees: 
+       No autapomorphies: 
+ 
+   Sahaliyania_elunchunorum : 
+     All trees: 
+       Char. 129: 0 --> 1 
+       Char. 205: 0 --> 1 
+       Char. 286: 1 --> 0 
+ 
+   Lambeosaurus_lambei : 
+     All trees: 
+       No autapomorphies: 
+ 
+   Lambeosaurus_magnicristatus : 
+     All trees: 
+       Char. 61: 2 --> 1 
+       Char. 326: 1 --> 2 
+ 
+   Magnapaulia_laticaudus : 
+     All trees: 
+       Char. 74: 1 --> 0 
+       Char. 269: 2 --> 1 
+       Char. 325: 1 --> 0 
+       Char. 328: 0 --> 1 
+ 
+   Velafrons_coahuilensis : 
+     All trees: 
+       Char. 37: 1 --> 0 
+       Char. 39: 1 --> 2 
+       Char. 90: 1 --> 0 
+       Char. 109: 2 --> 1 
+       Char. 111: 3 --> 2 
+       Char. 129: 0 --> 1 
+       Char. 164: 2 --> 1 
+       Char. 292: 2 --> 1 
+       Char. 302: 2 --> 1 
+ 
+   Corythosaurus_casuarius : 
+     All trees: 
+       No autapomorphies: 
+ 
+   Corythosaurus_intermedius : 
+     All trees: 
+       No autapomorphies: 
+ 
+   Hypacrosaurus_altispinus : 
+     All trees: 
+       Char. 10: 1 --> 2 
+       Char. 28: 1 --> 2 
+       Char. 230: 2 --> 1 
+       Char. 302: 2 --> 1 
+       Char. 347: 0 --> 1 
+ 
+   Hypacrosaurus_stebingeri : 
+     All trees: 
+       Char. 7: 1 --> 0 
+       Char. 38: 1 --> 0 
+       Char. 42: 1 --> 0 
+       Char. 73: 2 --> 1 
+ 
+   Kelumapusaura_machi : 
+     All trees: 
+       Char. 5: 3 --> 2 
+       Char. 260: 1 --> 0 
+       Char. 261: 1 --> 0 
+       Char. 289: 1 --> 0 
+       Char. 291: 2 --> 3 
+       Char. 362: 0 --> 1 
+ 
+   Bonapartesaurus_rionegrensis : 
+     All trees: 
+       Char. 273: 1 --> 0 
+       Char. 334: 1 --> 0 
+ 
+   Secernosaurus_koerneri : 
+     All trees: 
+       Char. 259: 0 --> 1 
+       Char. 292: 2 --> 1 
+       Char. 296: 1 --> 0 
+       Char. 311: 1 --> 0 
+ 
+   Gobihadros_mongoliensis : 
+     All trees: 
+       Char. 7: 0 --> 1 
+       Char. 10: 1 --> 0 
+       Char. 17: 1 --> 0 
+       Char. 21: 0 --> 1 
+       Char. 23: 0 --> 2 
+       Char. 30: 0 --> 1 
+       Char. 46: 0 --> 1 
+       Char. 89: 0 --> 2 
+       Char. 98: 0 --> 2 
+       Char. 100: 0 --> 1 
+       Char. 103: 0 --> 1 
+       Char. 111: 1 --> 0 
+       Char. 194: 0 --> 1 
+       Char. 227: 0 --> 1 
+       Char. 244: 1 --> 0 
+       Char. 245: 1 --> 0 
+       Char. 249: 0 --> 1 
+       Char. 250: 0 --> 1 
+       Char. 258: 0 --> 1 
+       Char. 292: 1 --> 2 
+       Char. 332: 1 --> 0 
+       Char. 363: 0 --> 1 
+ 
+   Huehuecanauhtlus_tiquichensis : 
+     All trees: 
+       Char. 298: 2 --> 1 
+ 
+   Gonkoken_nanoi : 
+     All trees: 
+       Char. 131: 1 --> 0 
+       Char. 262: 1 --> 3 
+       Char. 264: 0 --> 1 
+       Char. 293: 2 --> 1 
+       Char. 302: 0 --> 1 
+       Char. 304: 1 --> 0 
+       Char. 334: 1 --> 0 
+       Char. 340: 0 --> 1 
+       Char. 352: 0 --> 1 
+       Char. 358: 0 --> 1 
+       Char. 363: 0 --> 1 
+ 
+   Node 78 : 
+     All trees: 
+       Char. 26: 1 --> 0 
+       Char. 183: 0 --> 1 
+       Char. 232: 1 --> 0 
+       Char. 325: 1 --> 0 
+       Char. 339: 1 --> 0 
+ 
+   Node 79 : 
+     All trees: 
+       No synapomorphies 
+ 
+   Node 80 : 
+     All trees: 
+       Char. 107: 0 --> 1 
+       Char. 147: 0 --> 1 
+       Char. 231: 0 --> 1 
+ 
+   Node 81 : 
+     All trees: 
+       Char. 2: 0 --> 1 
+       Char. 3: 0 --> 1 
+       Char. 62: 0 --> 1 
+       Char. 79: 0 --> 1 
+       Char. 99: 0 --> 1 
+       Char. 125: 0 --> 1 
+       Char. 169: 0 --> 1 
+       Char. 238: 0 --> 1 
+       Char. 299: 1 --> 0 
+ 
+   Node 82 : 
+     All trees: 
+       Char. 5: 0 --> 1 
+       Char. 19: 0 --> 1 
+       Char. 22: 0 --> 1 
+       Char. 56: 0 --> 1 
+       Char. 78: 0 --> 1 
+ 
+   Node 83 : 
+     All trees: 
+       Char. 12: 0 --> 1 
+       Char. 55: 0 --> 1 
+       Char. 228: 1 --> 0 
+ 
+   Node 84 : 
+     All trees: 
+       Char. 304: 0 --> 1 
+ 
+   Node 85 : 
+     All trees: 
+       Char. 31: 0 --> 1 
+       Char. 32: 0 --> 1 
+       Char. 34: 0 --> 1 
+       Char. 42: 0 --> 1 
+       Char. 319: 0 --> 1 
+ 
+   Node 86 : 
+     All trees: 
+       Char. 10: 0 --> 1 
+       Char. 70: 0 --> 1 
+       Char. 112: 0 --> 1 
+       Char. 297: 0 --> 1 
+       Char. 298: 0 --> 1 
+       Char. 318: 0 --> 1 
+       Char. 320: 0 --> 1 
+       Char. 334: 0 --> 1 
+     Some trees: 
+       Char. 1: 0 --> 1 
+ 
+   Node 87 : 
+     All trees: 
+       Char. 212: 0 --> 1 
+     Some trees: 
+       Char. 185: 0 --> 1 
+       Char. 205: 0 --> 1 
+       Char. 209: 1 --> 0 
+       Char. 333: 0 --> 1 
+ 
+   Node 88 : 
+     All trees: 
+       Char. 292: 0 --> 1 
+ 
+   Node 89 : 
+     All trees: 
+       Char. 202: 1 --> 0 
+       Char. 214: 0 --> 1 
+       Char. 262: 0 --> 1 
+       Char. 304: 0 --> 1 
+       Char. 331: 0 --> 1 
+ 
+   Node 90 : 
+     All trees: 
+       Char. 111: 0 --> 1 
+       Char. 135: 0 --> 1 
+       Char. 289: 0 --> 1 
+ 
+   Node 91 : 
+     All trees: 
+       Char. 286: 1 --> 0 
+       Char. 340: 0 --> 1 
+ 
+   Node 92 : 
+     All trees: 
+       Char. 5: 1 --> 2 
+       Char. 105: 0 --> 1 
+       Char. 187: 1 --> 0 
+       Char. 331: 1 --> 0 
+ 
+   Node 93 : 
+     All trees: 
+       Char. 49: 0 --> 1 
+       Char. 51: 0 --> 1 
+       Char. 319: 1 --> 0 
+ 
+   Node 94 : 
+     All trees: 
+       Char. 292: 2 --> 3 
+       Char. 318: 1 --> 0 
+       Char. 319: 1 --> 0 
+       Char. 320: 1 --> 0 
+ 
+   Node 95 : 
+     All trees: 
+       Char. 82: 1 --> 3 
+       Char. 84: 0 --> 1 
+       Char. 150: 1 --> 2 
+       Char. 154: 1 --> 2 
+       Char. 191: 1 --> 2 
+       Char. 194: 1 --> 0 
+       Char. 209: 1 --> 0 
+       Char. 217: 0 --> 1 
+       Char. 328: 0 --> 1 
+       Char. 336: 0 --> 1 
+ 
+   Node 96 : 
+     All trees: 
+       Char. 177: 0 --> 1 
+       Char. 186: 0 --> 1 
+       Char. 189: 0 --> 2 
+       Char. 225: 0 --> 2 
+       Char. 356: 0 --> 2 
+ 
+   Node 97 : 
+     All trees: 
+       Char. 191: 0 --> 1 
+       Char. 192: 0 --> 1 
+       Char. 193: 0 --> 1 
+ 
+   Node 98 : 
+     All trees: 
+       Char. 98: 2 --> 1 
+       Char. 129: 1 --> 0 
+       Char. 247: 1 --> 0 
+       Char. 265: 0 --> 1 
+       Char. 268: 1 --> 2 
+       Char. 269: 1 --> 2 
+       Char. 270: 1 --> 2 
+ 
+   Node 99 : 
+     All trees: 
+       Char. 102: 2 --> 3 
+       Char. 111: 1 --> 3 
+       Char. 170: 0 --> 1 
+       Char. 361: 0 --> 1 
+ 
+   Node 100 : 
+     All trees: 
+       Char. 10: 2 --> 1 
+       Char. 98: 0 --> 2 
+       Char. 101: 0 --> 1 
+       Char. 128: 0 --> 1 
+       Char. 136: 0 --> 1 
+       Char. 228: 0 --> 1 
+       Char. 264: 0 --> 1 
+ 
+   Node 101 : 
+     All trees: 
+       Char. 43: 0 --> 1 
+       Char. 45: 0 --> 1 
+       Char. 249: 0 --> 1 
+       Char. 250: 0 --> 1 
+ 
+   Node 102 : 
+     All trees: 
+       Char. 4: 1 --> 2 
+ 
+   Node 103 : 
+     All trees: 
+       Char. 10: 1 --> 2 
+       Char. 253: 0 --> 1 
+       Char. 270: 0 --> 1 
+ 
+   Node 104 : 
+     All trees: 
+       Char. 7: 0 --> 1 
+ 
+   Node 105 : 
+     All trees: 
+       Char. 296: 0 --> 1 
+       Char. 305: 0 --> 1 
+ 
+   Node 106 : 
+     All trees: 
+       Char. 37: 0 --> 1 
+       Char. 47: 0 --> 1 
+       Char. 48: 0 --> 1 
+       Char. 52: 0 --> 1 
+       Char. 57: 0 --> 1 
+       Char. 319: 0 --> 1 
+ 
+   Node 107 : 
+     All trees: 
+       Char. 23: 0 --> 1 
+       Char. 95: 0 --> 1 
+       Char. 99: 1 --> 2 
+       Char. 206: 0 --> 1 
+       Char. 234: 0 --> 1 
+ 
+   Node 108 : 
+     All trees: 
+       Char. 2: 1 --> 2 
+       Char. 25: 0 --> 1 
+       Char. 112: 1 --> 2 
+       Char. 255: 0 --> 1 
+ 
+   Node 109 : 
+     All trees: 
+       Char. 32: 1 --> 3 
+       Char. 35: 0 --> 1 
+       Char. 120: 0 --> 1 
+       Char. 188: 0 --> 1 
+       Char. 248: 0 --> 1 
+       Char. 257: 0 --> 1 
+       Char. 269: 0 --> 1 
+       Char. 303: 0 --> 1 
+       Char. 307: 0 --> 1 
+       Char. 308: 0 --> 1 
+       Char. 342: 0 --> 1 
+       Char. 343: 0 --> 1 
+ 
+   Node 110 : 
+     All trees: 
+       Char. 10: 1 --> 0 
+       Char. 22: 1 --> 0 
+ 
+   Node 111 : 
+     All trees: 
+       Char. 38: 0 --> 1 
+       Char. 43: 0 --> 1 
+       Char. 96: 0 --> 1 
+ 
+   Node 112 : 
+     All trees: 
+       Char. 38: 0 --> 1 
+       Char. 40: 1 --> 0 
+       Char. 114: 1 --> 0 
+ 
+   Node 113 : 
+     All trees: 
+       Char. 21: 0 --> 1 
+       Char. 57: 1 --> 0 
+       Char. 74: 0 --> 1 
+       Char. 108: 0 --> 1 
+       Char. 143: 0 --> 1 
+       Char. 149: 2 --> 1 
+       Char. 156: 1 --> 0 
+       Char. 215: 0 --> 1 
+       Char. 218: 1 --> 2 
+       Char. 231: 1 --> 0 
+       Char. 269: 1 --> 0 
+       Char. 356: 0 --> 2 
+ 
+   Node 114 : 
+     All trees: 
+       Char. 5: 2 --> 3 
+       Char. 34: 1 --> 2 
+       Char. 42: 1 --> 0 
+       Char. 62: 1 --> 0 
+       Char. 71: 01 --> 2 
+       Char. 75: 0 --> 1 
+       Char. 100: 0 --> 1 
+       Char. 199: 0 --> 1 
+       Char. 201: 0 --> 1 
+       Char. 209: 1 --> 0 
+       Char. 214: 1 --> 0 
+       Char. 254: 0 --> 2 
+       Char. 260: 0 --> 1 
+       Char. 262: 1 --> 2 
+       Char. 263: 0 --> 1 
+       Char. 291: 3 --> 2 
+       Char. 308: 1 --> 3 
+       Char. 343: 1 --> 0 
+ 
+   Node 115 : 
+     All trees: 
+       Char. 79: 0 --> 1 
+       Char. 111: 1 --> 2 
+       Char. 132: 1 --> 0 
+       Char. 137: 0 --> 1 
+       Char. 174: 0 --> 1 
+       Char. 192: 0 --> 1 
+       Char. 287: 0 --> 1 
+ 
+   Node 116 : 
+     All trees: 
+       Char. 42: 0 --> 1 
+       Char. 190: 0 --> 1 
+       Char. 194: 0 --> 1 
+       Char. 197: 0 --> 1 
+       Char. 199: 1 --> 2 
+ 
+   Node 117 : 
+     All trees: 
+       Char. 23: 1 --> 0 
+       Char. 30: 1 --> 0 
+       Char. 33: 0 --> 1 
+       Char. 48: 1 --> 2 
+ 
+   Node 118 : 
+     All trees: 
+       Char. 26: 2 --> 1 
+       Char. 97: 1 --> 2 
+       Char. 258: 1 --> 0 
+       Char. 288: 2 --> 1 
+       Char. 310: 0 --> 1 
+       Char. 316: 0 --> 2 
+ 
+   Node 119 : 
+     All trees: 
+       Char. 3: 2 --> 3 
+       Char. 22: 1 --> 2 
+       Char. 96: 0 --> 1 
+       Char. 119: 1 --> 0 
+       Char. 259: 1 --> 0 
+       Char. 261: 0 --> 1 
+       Char. 270: 1 --> 2 
+       Char. 340: 0 --> 1 
+ 
+   Node 120 : 
+     All trees: 
+       Char. 299: 1 --> 0 
+ 
+   Node 121 : 
+     All trees: 
+       Char. 288: 1 --> 0 
+ 
+   Node 122 : 
+     All trees: 
+       Char. 302: 2 --> 1 
+       Char. 357: 0 --> 1 
+       Char. 358: 0 --> 1 
+       Char. 359: 0 --> 1 
+ 
+   Node 123 : 
+     All trees: 
+       Char. 1: 1 --> 0 
+ 
+   Node 124 : 
+     All trees: 
+       Char. 4: 2 --> 1 
+       Char. 16: 1 --> 0 
+       Char. 37: 1 --> 2 
+       Char. 92: 0 --> 1 
+       Char. 99: 2 --> 3 
+       Char. 138: 1 --> 0 
+       Char. 148: 0 --> 2 
+       Char. 347: 0 --> 1 
+       Char. 356: 0 --> 2 
+ 
+   Node 125 : 
+     All trees: 
+       Char. 61: 1 --> 2 
+       Char. 71: 2 --> 1 
+ 
+   Node 126 : 
+     All trees: 
+       Char. 8: 2 --> 1 
+       Char. 23: 1 --> 0 
+       Char. 24: 0 --> 1 
+       Char. 33: 0 --> 1 
+       Char. 131: 1 --> 2 
+       Char. 137: 0 --> 2 
+       Char. 156: 1 --> 2 
+       Char. 196: 0 --> 1 
+       Char. 197: 0 --> 1 
+       Char. 218: 1 --> 0 
+       Char. 259: 0 --> 1 
+       Char. 271: 1 --> 2 
+       Char. 299: 1 --> 2 
+       Char. 323: 0 --> 1 
+       Char. 343: 0 --> 1 
+       Char. 352: 0 --> 1 
+ 
+   Node 127 : 
+     All trees: 
+       Char. 44: 1 --> 0 
+       Char. 48: 1 --> 2 
+       Char. 116: 1 --> 0 
+       Char. 226: 0 --> 1 
+       Char. 356: 0 --> 2 
+ 
+   Node 128 : 
+     All trees: 
+       Char. 38: 0 --> 1 
+       Char. 41: 1 --> 0 
+       Char. 46: 0 --> 1 
+       Char. 61: 1 --> 2 
+       Char. 121: 12 --> 0 
+       Char. 227: 0 --> 1 
+       Char. 272: 0 --> 1 
+ 
+   Node 129 : 
+     All trees: 
+       Char. 71: 2 --> 1 
+       Char. 83: 0 --> 1 
+       Char. 86: 0 --> 1 
+       Char. 177: 0 --> 1 
+       Char. 189: 1 --> 2 
+       Char. 190: 0 --> 1 
+       Char. 192: 0 --> 1 
+       Char. 193: 0 --> 2 
+       Char. 198: 0 --> 2 
+       Char. 199: 1 --> 2 
+       Char. 240: 0 --> 1 
+       Char. 254: 2 --> 1 
+       Char. 261: 1 --> 0 
+       Char. 269: 1 --> 2 
+       Char. 273: 1 --> 0 
+       Char. 335: 0 --> 1 
+ 
+   Node 130 : 
+     All trees: 
+       Char. 0: 1 --> 2 
+       Char. 180: 1 --> 2 
+       Char. 203: 0 --> 1 
+       Char. 233: 1 --> 0 
+       Char. 261: 1 --> 0 
+       Char. 308: 3 --> 2 
+ 
+   Node 131 : 
+     All trees: 
+       Char. 73: 3 --> 4 
+       Char. 138: 1 --> 0 
+       Char. 150: 1 --> 0 
+       Char. 162: 1 --> 0 
+       Char. 291: 2 --> 3 
+ 
+   Node 132 : 
+     All trees: 
+       Char. 26: 2 --> 1 
+       Char. 37: 1 --> 3 
+       Char. 47: 1 --> 2 
+       Char. 181: 0 --> 1 
+       Char. 220: 0 --> 1 
+       Char. 259: 0 --> 1 
+       Char. 323: 0 --> 1 
+       Char. 326: 1 --> 0 
+       Char. 355: 0 --> 1 
+       Char. 356: 2 --> 1 
+ 
+   Node 133 : 
+     All trees: 
+       Char. 46: 1 --> 0 
+ 
+   Node 134 : 
+     All trees: 
+       Char. 7: 1 --> 0 
+       Char. 55: 2 --> 1 
+ 
+   Node 135 : 
+     All trees: 
+       Char. 39: 2 --> 0 
+ 
+   Node 136 : 
+     All trees: 
+       Char. 165: 0 --> 1 
+       Char. 187: 2 --> 1 
+       Char. 235: 1 --> 2 
+ 
+   Node 137 : 
+     All trees: 
+       Char. 39: 2 --> 0 
+       Char. 40: 1 --> 2 
+       Char. 42: 1 --> 2 
+       Char. 44: 1 --> 0 
+       Char. 102: 3 --> 4 
+ 
+   Node 138 : 
+     All trees: 
+       Char. 4: 2 --> 3 
+       Char. 256: 0 --> 1 
+       Char. 257: 0 --> 2 
+ 
+   Node 139 : 
+     All trees: 
+       Char. 129: 0 --> 1 
+ 
+   Node 140 : 
+     All trees: 
+       Char. 38: 0 --> 1 
+       Char. 39: 2 --> 1 
+       Char. 41: 2 --> 1 
+       Char. 61: 1 --> 2 
+       Char. 247: 0 --> 1 
+ 
+   Node 141 : 
+     All trees: 
+       Char. 85: 0 --> 1 
+       Char. 178: 0 --> 1 
+       Char. 256: 0 --> 1 
+       Char. 257: 0 --> 2 
+ 
+   Node 142 : 
+     All trees: 
+       Char. 10: 1 --> 2 
+       Char. 40: 1 --> 2 
+       Char. 89: 0 --> 1 
+ 
+   Node 143 : 
+     All trees: 
+       Char. 82: 1 --> 2 
+       Char. 87: 0 --> 1 
+       Char. 89: 0 --> 1 
+       Char. 219: 0 --> 1 
+       Char. 316: 0 --> 1 
+       Char. 356: 2 --> 0 
+ 
+   Node 144 : 
+     All trees: 
+       Char. 231: 1 --> 0 
+       Char. 323: 0 --> 1 
+       Char. 361: 1 --> 0 
+ 
+   Node 145 : 
+     All trees: 
+       Char. 121: 0 --> 1 
+ 
+   Node 146 : 
+     All trees: 
+       Char. 96: 0 --> 1 
+       Char. 287: 0 --> 1 
+ 
+   Node 147 : 
+     All trees: 
+       Char. 23: 1 --> 0 
+       Char. 260: 0 --> 1 
+ 
+   Node 148 : 
+     All trees: 
+       Char. 26: 2 --> 3 
+       Char. 326: 1 --> 2 
+ 
+   Node 149 : 
+     All trees: 
+       Char. 4: 2 --> 3 
+       Char. 65: 1 --> 0 
+       Char. 157: 1 --> 2 
+       Char. 184: 0 --> 1 
+       Char. 340: 0 --> 1 
+ 
+Time 0.17 secs. 
+Log file: C:\Users\Jhonatan Alarcón\Desktop\Corrección Paper Gonkoken\Alex_JAM_actualizado_CORRECCIONES\Matriz modificada Gonkoken_SA\z-matriz definitiva_Gonkoken nanoi\Lista de sinapomorfías.out 
+Buffer: lines 0 - 1143 saved to C:\Users\Jhonatan Alarcón\Desktop\Corrección Paper Gonkoken\Alex_JAM_actualizado_CORRECCIONES\Matriz modificada Gonkoken_SA\z-matriz definitiva_Gonkoken nanoi\Lista de sinapomorfías.out 
+Time 0.00 secs. 
