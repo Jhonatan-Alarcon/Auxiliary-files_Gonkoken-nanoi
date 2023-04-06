@@ -1,6 +1,6 @@
 # Auxiliary files for: Relict duck-billed dinosaurs survived into the last age of the dinosaurs in subantarctic Chile
 
-###**Authors**
+### **Authors**
 - Jhonatan Alarcón-Muñoz
 - Alexander O. Vargas
 - Hans Püschel
@@ -21,7 +21,7 @@
 - Penélope Cruzado-Caballero
 
 
-##Contents
+## Contents
 1. S1 corresponds to a matrix of morphological (osteological) characters of hadrosauroid dinosaurs (herbivores known as "duck-billed dinosaurs") in ".nex" format. This matrix was used to determine the phylogenetic relationships of hadrosauroids, with special interest in those that lived in South America. 
 
 2. S2 corresponds to a file in ".out" format containing the list of synapomorphies and characters supporting the nodes of the phylogenetic trees obtained from parsimony analysis in the TNT (Tree analysis using New Technology) program. It should be noted that some synapomorphies may be ambiguous.
