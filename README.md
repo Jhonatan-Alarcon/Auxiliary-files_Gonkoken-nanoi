@@ -1,4 +1,4 @@
-# Auxiliary files for: Relict duck-billed dinosaurs survived into the last age of the dinosaurs in subantarctic Chile
+# Supplementary files for: Relict duck-billed dinosaurs survived into the last age of the dinosaurs in subantarctic Chile
 
 ### **Authors**
 - Jhonatan Alarcón-Muñoz
